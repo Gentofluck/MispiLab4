@@ -1,0 +1,4 @@
+com\example\PointClickServlet.class
+com\example\MBeanRegistrar.class
+com\example\PointCountMBean.class
+com\example\PointCount.class
